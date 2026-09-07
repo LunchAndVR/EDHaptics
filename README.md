@@ -12,7 +12,7 @@ Elite Dangerous has limited telemetry it sends for feedback, which is why having
 
 **Early Alpha Release.**
 Tested & Working so far:
-- Xinput with Xbox Gamepad
+- Xinput with Xbox Gamepad Controllers
 - bHaptics TactSuit, TactSleeve, TactVisor
 
 Untested but might work (looking for testers):
