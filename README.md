@@ -19,6 +19,8 @@ Future Tests:
 - Buttkicker
 - Playstation Controllers
 
+_______________________________
+
 **To Install + Use:**
 
 Simply extract and run EDHaptics.bat. Leave the window running in the background. To use with bHaptics, launch and run the latest version of bHaptics. Launch Elite Dangerous game, voila enjoy.
