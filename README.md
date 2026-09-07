@@ -1,10 +1,10 @@
 <img width="1920" height="500" alt="edhaptics" src="https://github.com/user-attachments/assets/7f7885e9-6c11-4bde-bf7e-c4d1b4ffffac" />
 
-Elite Dangerous haptics & force feedback for XInput, Gamepad, bHaptics, buttkicker and future supported products.
+Elite Dangerous haptics & force feedback for XInput, Gamepad, haptic gear like bHaptics and upcoming supported products.
 
 This is a mini mod to play Elite Dangerous with vibrations on your controllers, devices, sim rigs, and haptic suits.
 
-Elite Dangerous has limited telemetry it sends for feedback, which is why having feedback & haptics on ED been limited. What this version has that makes it improved:
+Elite Dangerous has limited telemetry it sends for feedback, which is why having feedback & haptics on ED been limited. What this version has that makes it different than other mods:
 - Boost Button Feedback
 - Hardpoint Firing Feedback
 - bHaptics Feedback
@@ -15,8 +15,10 @@ Tested & Working so far:
 - Xinput with Xbox Gamepad
 - bHaptics TactSuit, TactSleeve, TactVisor
 
-Future Tests:
+Untested but might work:
 - Buttkicker
+
+Upcoming support:
 - Playstation Controllers
 
 _______________________________
