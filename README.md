@@ -9,7 +9,8 @@ Future Tests:
 - Buttkicker
 - Playstation Controllers
 
-To use:
+**To Install + Use:**
+
 Simply extract and run EDHaptics.bat. Leave the window running in the background. Closing the window will end all haptic connections.
 
 Virus Total Scan Results, no virus. Feel free to run it yourself too:
