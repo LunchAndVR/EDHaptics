@@ -4,7 +4,7 @@ Elite Dangerous haptics & force feedback for XInput, Gamepad, bHaptics, buttkick
 
 This is a mini mod to play Elite Dangerous with vibrations on your controllers, devices, sim rigs, and haptic suits.
 
-What this version has that makes it improved:
+Elite Dangerous has limited telemetry it sends for feedback, which is why having feedback & haptics on ED been limited. What this version has that makes it improved:
 - Boost Button Feedback
 - Hardpoint Firing Feedback
 - bHaptics Feedback
