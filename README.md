@@ -15,7 +15,8 @@ Tested & Working so far:
 - Xinput with Xbox Gamepad
 - bHaptics TactSuit, TactSleeve, TactVisor
 
-Untested but might work:
+Untested but might work (looking for testers):
+- SimHub
 - Buttkicker
 
 Upcoming support:
