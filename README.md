@@ -8,8 +8,9 @@ What this version has that makes it improved:
 - Boost Button Feedback
 - Hardpoint Firing Feedback
 - bHaptics Feedback
-**
-Early Alpha Release.**
+
+
+**Early Alpha Release.**
 Tested & Working so far:
 - Xinput with Xbox Gamepad
 - bHaptics TactSuit, TactSleeve, TactVisor
