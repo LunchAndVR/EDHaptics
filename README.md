@@ -28,4 +28,5 @@ Closing the window will end all haptic connections.
 ______________________________
 
 Virus Total Scan Results, no virus. Feel free to run it yourself too:
-<img width="2416" height="864" alt="image" src="https://github.com/user-attachments/assets/1b358f88-0d47-4b8f-b0a7-8a09e2b990ea" />
+<img width="2416" height="1130" alt="image" src="https://github.com/user-attachments/assets/cc2dce53-3686-4f27-b694-06b31b3057ae" />
+
